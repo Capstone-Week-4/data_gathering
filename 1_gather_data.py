@@ -1,7 +1,8 @@
 import cv2
 import mediapipe as mp
 import numpy as np
-import time, os
+import time
+import os
 import shutil
 
 # 실행경로를 설정한다.
