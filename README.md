@@ -20,6 +20,7 @@ INSERT THE NUMBER OF SIGNS : 20
 - 카카오톡으로 보내주신 단어 목록의 순서를 잘 지켜주셔야 합니당~
 
 <br>
+
 ```
 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
 ```
