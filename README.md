@@ -1,3 +1,20 @@
+## Slang Data Gathering Repository
+
+Organization:</br>
+https://github.com/Capstone-Week-4
+
+AI:</br>
+https://github.com/Capstone-Week-4/Slang_AI</br>
+https://github.com/Capstone-Week-4/data_gathering
+
+FrontEnd:</br>
+https://github.com/Capstone-Week-4/frontend
+
+Backend:</br>
+https://github.com/airoca/Slang-Backend
+
+---
+
 - vscode를 사용하시는 경우 `ctrl + shift + D` 하셔서 디버깅으로 실행해주셔야 합니다.
 - requirements.txt 패키지를 내려받아 사용해 주세요.
   <br>
